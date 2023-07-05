@@ -1,0 +1,101 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+
+html,
+body {
+  position: relative;
+  height: 100%;
+  font-family: 'Raleway', sans-serif;
+
+}
+#prueba {
+  width: 100vh;
+}
+a > .logo {
+    width: 25%;
+}
+header {
+    margin:1rem;
+    display: flex;
+    background-color: azure;
+}
+header h2 {
+    padding:1rem;
+}
+#datos {
+    width:100%;
+}
+.swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+  }
+  .carta {
+    height:10em;
+    width: 90%;
+    margin: 1rem;
+    box-shadow: -5px -5px 12px rgba(0,0,0, 0.5);
+}
+.cartas {
+    background-color: azure;
+    display: flex;
+    justify-content:space-between;
+    gap: .5em;
+}
+
+  footer {
+    display: flex;
+    justify-content: space-between;
+    margin: 2em 1em;
+    padding: 1em;
+    background-color: azure;
+}
+footer > a {
+  text-decoration: none;
+  color: rgb(112, 112, 112);
+}
+.redes img {
+    height:3em;
+    margin-right: 2em;
+}
+@media only screen and (max-width:1024px){
+  .cartas {
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+     gap: 2em;
+  } 
+} 
+
+  @media only screen and (max-width:600px) {
+    a > .logo { width: 40%};
+    .redes {
+      display: flex;
+      flex-direction: column;
+      
+    }
+    .redes img {
+      height:2.4em;
+      padding: .25em;
+    }
+    .redes h2 {
+      margin-bottom:0;
+    }
+    .cartas {
+      gap:1em;
+      align-items: center;
+     }
+  }
