@@ -71,6 +71,10 @@ footer > a {
 .redes img {
     height:3em;
     margin-right: 2em;
+    transition: transform 0.3s ease-in-out;
+}
+.redes img:hover {
+  transform: scale(1.1);
 }
 @media only screen and (max-width:1024px){
   .cartas {
