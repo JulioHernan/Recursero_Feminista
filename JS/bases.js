@@ -29,8 +29,8 @@ let data = [
     },
     {
     _id: 5,
-    "image":"https://scontent-eze1-1.xx.fbcdn.net/v/t39.30808-6/278602523_1602722703437922_6521502438240861926_n.jpg?_nc_cat=107&cb=99be929b-3346023f&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGhjpOr2D5eh_7fBhUX0riZ1mwa6TQtD8jWbBrpNC0PyMumT9U_rhugcrA44bhhKLA&_nc_ohc=QljcOKOUJs8AX8f-Ptf&_nc_ht=scontent-eze1-1.xx&oh=00_AfCfGvE5qlufJJojjmZl5Qcsq8PEAPgsZk6-K8oVT5HU1A&oe=64B2E805",
-    "name":"Base N°18",
+    "image":"https://www.ezeizahoy.com.ar/fotos/0002490-01l.jpg?rnd=",
+    "name" : "Base N°18",
     "direccion":"Saavedra 947, Tristán Suárez",
     "telefono":"📞 2008-5638"
     },
