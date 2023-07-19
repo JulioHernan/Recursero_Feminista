@@ -1,7 +1,7 @@
 let data = [
     {
     _id: 1,
-    "image":"https://media.eldiariosur.com/p/739c8926dcdd43cae86878b590faa2db/adjuntos/291/imagenes/000/478/0000478960/secretaria-la-mujer-ezeiza-edificiojpg.jpg",
+    "image":"https://www.infobae.com/new-resizer/4FeqotbBI9M5YqkfQo-G0hPzcJ0=/768x512/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/3NMPCEPSRJGFFF7AXWBFUSJD2M.jpeg",
     "name":"DIRECCIÓN DE ABORDAJE INTEGRAL DE LAS VIOLENCIAS POR RAZONES DE GÉNERO",
     "direccion":"Presidente Perón 270 esq. Urquiza – Ezeiza",
     "telefono":"📞 4389-4401 / 4389-4403",
