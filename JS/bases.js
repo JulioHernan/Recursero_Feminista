@@ -1,7 +1,7 @@
 let data = [
     {
     _id: 1,
-    "image":"https://scontent.feze14-1.fna.fbcdn.net/v/t1.6435-9/65386821_2333535423524757_8600615724693585920_n.jpg?_nc_cat=103&cb=99be929b-3346023f&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFDEz8KPloC9S8Y2OqD2gfZ84YGbIXmtv_zhgZshea2_4DZMyNV_YSYoHu5pqC_9CY&_nc_ohc=SJyPvZysZPQAX8ZSbBL&_nc_ht=scontent.feze14-1.fna&oh=00_AfDcYdtnShNykoZcAXRQzzBgexTl9eUC_vPtw-Gn6nz3vg&oe=64CC4448",
+    "image":"https://scontent-eze1-1.xx.fbcdn.net/v/t1.6435-9/65386821_2333535423524757_8600615724693585920_n.jpg?stp=dst-jpg_p843x403&_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFDEz8KPloC9S8Y2OqD2gfZ84YGbIXmtv_zhgZshea2_4DZMyNV_YSYoHu5pqC_9CY&_nc_ohc=hAW3ytzBvaoAX8GCpUN&_nc_ht=scontent-eze1-1.xx&oh=00_AfDCCWQhxMe_4_fEZdLi5HYwv6ytpJVryooAaEJ5XJWBbQ&oe=651EAA08",
     "name":"Base La Trocha Norte",
     "direccion":"Garay y Chile, Ezeiza",
     "telefono":"📞 4295-3765",
@@ -15,7 +15,7 @@ let data = [
     },
     {
     _id: 3,
-    "image":"https://scontent.feze14-1.fna.fbcdn.net/v/t1.6435-9/128368127_1711141329063339_7445736049448678969_n.jpg?_nc_cat=106&cb=99be929b-3346023f&ccb=1-7&_nc_sid=a26aad&_nc_eui2=AeE9kRdPf4mq6gFjOu-rsvNriDDQYkcOygWIMNBiRw7KBc8EOzpkPbyuzr0Jdyvdv2Y&_nc_ohc=79v_PIa9jPUAX813Ogm&_nc_ht=scontent.feze14-1.fna&oh=00_AfAMgRUNC7cNL6D-qz0lHo0j22GqmfC9HgVhIJHw9ld_Ig&oe=64CC624F",
+    "image":"https://www.ezeizahoy.com.ar/fotos/0000625-01l.jpg?rnd=",
     "name":"Base N°24 “La Cunita”",
     "direccion":"Urquiza 1173, Ezeiza",
     "telefono":"📞4295-0443"
@@ -36,7 +36,7 @@ let data = [
     },
     {
      _id: 6,
-    "image":"https://scontent.feze14-1.fna.fbcdn.net/v/t1.18169-9/11987159_151180771891428_5761569949143757276_n.jpg?_nc_cat=108&cb=99be929b-3346023f&ccb=1-7&_nc_sid=9267fe&_nc_eui2=AeGHmRXRLkE3Z_3E3-FCp6t2SmQ3v3VtYhtKZDe_dW1iG70uyW9uHT5vaDWUmVf9_ZY&_nc_ohc=B2qcnozg8CYAX9rOqK_&_nc_ht=scontent.feze14-1.fna&oh=00_AfByN3GHX340CSgeV6Aa4xe-qufzTyxORuSrHlbx7DMyVw&oe=64CC35EF",
+    "image":"https://1.bp.blogspot.com/-O2Ue5B7jxZ4/XR5z5UpBp2I/AAAAAAADb54/lbOMZL3wUDoXPjzhWKlmxrRlhuXKV5yVgCLcBGAs/s1600/desarrollo%2Bsocial%2Bde%2BEZEIZA.jpg",
     "name":"Desarrollo Social de Ezeiza",
     "direccion":"Zapala 480, La Unión",
     "telefono":"📞 4232-4141 "
