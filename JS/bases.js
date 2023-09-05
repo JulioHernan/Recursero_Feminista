@@ -22,7 +22,7 @@ let data = [
     },
     {
     _id: 4,
-    "image":"https://scontent.feze14-1.fna.fbcdn.net/v/t1.6435-9/61684953_2050733161705305_5235305034899521536_n.jpg?_nc_cat=108&cb=99be929b-3346023f&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFjwd4AGwG-JLLKJN792k_8b_lK9yOb5zFv-Ur3I5vnMbzU-Mdyhmp5zLgrl47XFdc&_nc_ohc=vZnufJ9IbEIAX8znN3U&_nc_ht=scontent.feze14-1.fna&oh=00_AfA2Fl6wxcyqcRhxpJnuyxd0ogSdjka4Am0PUyZcduGtag&oe=64CC3F80",
+    "image":"https://www.infobae.com/new-resizer/YSk5cbfhWUxoAz8tfTreQzrhy8w=/768x432/filters:format(webp):quality(85)/arc-anglerfish-arc2-prod-infobae.s3.amazonaws.com/public/RQHTCFQUZRHAJDYABTVVHQYHCY.jpg",
     "name":"Base N°7",
     "direccion":"Solís 650, Spegazzini",
     "telefono":"📞02274430460"
