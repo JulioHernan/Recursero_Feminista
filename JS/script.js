@@ -37,6 +37,8 @@ function renderCards2(data, contenedor) {
               <h5 class="card-title">${dato.name}</h5>
               <p class="card-text">Dirección: ${dato.direccion}</p>
               <p class="card-text">Teléfono: ${dato.telefono}</p>
+              <p class="card-text">Ubicación:${dato.ubicacion}</p>
+              <iframe src="${dato.frame}" width="240" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
           </div>
       </div>`;
   }
