@@ -90,6 +90,7 @@ let data = [
         {
         _id: 9,
         "image":"https://scontent.feze11-1.fna.fbcdn.net/v/t39.30808-6/355882063_6751392204885264_3379161244642308892_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeEskUR8HC7NenqFqBlErS5ii2oFZcSlPsCLagVlxKU-wLRpfqQwGTlYkFm_uHkyCZc&_nc_ohc=EPRDsFqLuW4AX8cEhdN&_nc_ht=scontent.feze11-1.fna&oh=00_AfCn9KDNJb9vQVCIG_f7h8VaxDcGqVnNMu1TYh-frDXzwA&oe=656E4EA3",
+        "name":"SECRETARÍA DE VIOLENCIA",
         "direccion":"Chenaut 130, Ezeiza  ",
         "telefono":"📞4295-0320/0329 ",
         "horario":"Lunes a Viernes de 8 a 14 hs.",
