@@ -24,6 +24,8 @@ var swiper = new Swiper(".mySwiper", {
                 <p class="card-text">Dirección: ${dato.direccion}</p>
                 <p class="card-text">Teléfono: ${dato.telefono}</p>
                 <a href="mailto:${dato.mail}">${dato.mail}</a>
+                <p class="card-text">Ubicación:${dato.ubicacion}</p>
+                <iframe src="${dato.frame}" width="240px" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
         </div>`;
     }

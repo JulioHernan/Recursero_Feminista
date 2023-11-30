@@ -6,7 +6,9 @@ let data = [
     "direccion":"Presidente Perón 270 esq. Urquiza – Ezeiza",
     "telefono":"📞 4389-4401 / 4389-4403",
     "horario":"📆 Lunes a viernes de 8 a 15 hs.",
-    "mail": "ovgmujeresestamos@ezeiza.gob.ar"
+    "mail": "ovgmujeresestamos@ezeiza.gob.ar",
+    "ubicacion":"📍",
+    "frame":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d409.26078655988556!2d-58.5253715977333!3d-34.85406920345423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcd0cc0b53461f%3A0x13174855995ea6c9!2sSecretaria%20De%20La%20Mujer!5e0!3m2!1ses-419!2sar!4v1701375581206!5m2!1ses-419!2sar"
     },
     {
     _id: 2,
@@ -15,7 +17,9 @@ let data = [
     "direccion":"residente Perón 270 esq. Urquiza – Ezeiza",
     "telefono":"📞 4389-4401 / 4389-4403",
     "horario":"📆 Lunes a viernes de 8 a 15 hs.",
-    "mail":"----"
+    "mail":"----",
+    "ubicacion":"📍",
+    "frame":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d409.26078655988556!2d-58.5253715977333!3d-34.85406920345423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcd0cc0b53461f%3A0x13174855995ea6c9!2sSecretaria%20De%20La%20Mujer!5e0!3m2!1ses-419!2sar!4v1701375581206!5m2!1ses-419!2sar"
     },
     {
     _id: 3,
@@ -24,61 +28,74 @@ let data = [
     "direccion":"Zapala 480, 1er. Piso – La Unión",
     "telefono":"📞 4389-4401 / 4389-4403",
     "horario":"📆 Lunes a viernes de 8 a 15 hs.",
-    "mail":"masculinidades@ezeiza.gob.ar"
+    "mail":"masculinidades@ezeiza.gob.ar",
+    "ubicacion":"📍",
+    "frame":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3274.100524737496!2d-58.545845825119855!3d-34.85370137286574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcd130574bb853%3A0x62d4f655fe4fabac!2sDesarrollo%20Social%20Villa%20Golf!5e0!3m2!1ses-419!2sar!4v1701373721580!5m2!1ses-419!2sar"
     },
     {
     _id: 4,
-    "image":"http://www.inforegion.com.ar/uploads/219514_1.jpg",
+    "image":"https://scontent.feze11-1.fna.fbcdn.net/v/t39.30808-6/355882063_6751392204885264_3379161244642308892_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeEskUR8HC7NenqFqBlErS5ii2oFZcSlPsCLagVlxKU-wLRpfqQwGTlYkFm_uHkyCZc&_nc_ohc=EPRDsFqLuW4AX8cEhdN&_nc_ht=scontent.feze11-1.fna&oh=00_AfCn9KDNJb9vQVCIG_f7h8VaxDcGqVnNMu1TYh-frDXzwA&oe=656E4EA3",
     "name":"UNIDAD FUNCIONAL DE INSTRUCCIÓN Y JUICIO DESCENTRALIZADA 1 EZEIZA (UFIJ N°1)",
     "direccion":"Chenaut  130, Ezeiza",
     "telefono":"📞4389-2132/33/34/35/36 ",
     "horario":"------",
-    "mail":"ufij.lz.ez@mpba.gov.ar"
+    "mail":"ufij.lz.ez@mpba.gov.ar",
+    "ubicacion":"📍",
+    "frame":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d204.64298304509464!2d-58.51391647237685!3d-34.84899694381519!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcd0d6afb88e8b%3A0xdade3eba4b404dad!2sUFI%204!5e0!3m2!1ses-419!2sar!4v1701377211373!5m2!1ses-419!2sar"
     }, 
     {
      _id: 5,
-    "image":"https://media.eldiariosur.com/p/5b61b439b00e28f111ac4ec24fe266ed/adjuntos/291/imagenes/000/469/0000469925/mujeres-ezeizajpeg.jpeg?0000-00-00-00-00-00",
+    "image":"https://scontent.feze11-1.fna.fbcdn.net/v/t39.30808-6/355882063_6751392204885264_3379161244642308892_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeEskUR8HC7NenqFqBlErS5ii2oFZcSlPsCLagVlxKU-wLRpfqQwGTlYkFm_uHkyCZc&_nc_ohc=EPRDsFqLuW4AX8cEhdN&_nc_ht=scontent.feze11-1.fna&oh=00_AfCn9KDNJb9vQVCIG_f7h8VaxDcGqVnNMu1TYh-frDXzwA&oe=656E4EA3",
     "name":"UNIDAD FUNCIONAL DE INSTRUCCIÓN Y JUICIO DESCENTRALIZADA 2 EZEIZA (UFIJ N°2)",
     "direccion":"Chenaut  130, Ezeiza",
     "telefono":"📞4389-2132/33/34/35/36 ",
     "horario":"----",
-    "mail":"ufij.lz.ez@mpba.gov.ar"
+    "mail":"ufij.lz.ez@mpba.gov.ar",
+    "ubicacion":"📍",
+    "frame":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d204.64298304509464!2d-58.51391647237685!3d-34.84899694381519!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcd0d6afb88e8b%3A0xdade3eba4b404dad!2sUFI%204!5e0!3m2!1ses-419!2sar!4v1701377211373!5m2!1ses-419!2sar"
      }, 
      {
      _id: 6,
-    "image":"https://scontent-eze1-1.xx.fbcdn.net/v/https://scontent.feze11-1.fna.fbcdn.net/v/t39.30808-6/240101181_4751473228199159_6430324852018406975_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeGLjic5zCIZaddLFAQMlWM5w5HjzFgcGXnDkePMWBwZeRX-v1bc6GjgmHueIazI0Ho&_nc_ohc=PPZAS0qHjkMAX9G0Hjw&_nc_ht=scontent.feze11-1.fna&oh=00_AfAmCbFGhvxzu6l9L6fu514s4ZXUau0su6OPkXZ_QEXsDw&oe=656E2AE7.6435-9/136740148_250472419843636_1438382253028057711_n.jpg?_nc_cat=111&cb=99be929b-59f725be&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=1I6gu-fXbUYAX_gVn3X&_nc_ht=scontent-eze1-1.xx&oh=00_AfBEe70Tq_PiGtMJUbTBrNM2YDiRGuRuerkkq-fUFTkszA&oe=64CCEB2F",
+    "image":"https://scontent.feze11-1.fna.fbcdn.net/v/t39.30808-6/355882063_6751392204885264_3379161244642308892_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeEskUR8HC7NenqFqBlErS5ii2oFZcSlPsCLagVlxKU-wLRpfqQwGTlYkFm_uHkyCZc&_nc_ohc=EPRDsFqLuW4AX8cEhdN&_nc_ht=scontent.feze11-1.fna&oh=00_AfCn9KDNJb9vQVCIG_f7h8VaxDcGqVnNMu1TYh-frDXzwA&oe=656E4EA3",
     "name":"UNIDAD FUNCIONAL DE INSTRUCCIÓN Y JUICIO DESCENTRALIZADA 2 EZEIZA (UFIJ N°3)",
     "direccion":"Chenaut  130, Ezeiza",
     "telefono":"📞4389-2132/33/34/35/36 ",
     "horario":"Lunes a Viernes de 8 a 14hs.",
-    "mail":"ufij.lz.ez@mpba.gov.ar"
+    "mail":"ufij.lz.ez@mpba.gov.ar",
+    "ubicacion":"📍",
+    "frame":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d204.64298304509464!2d-58.51391647237685!3d-34.84899694381519!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcd0d6afb88e8b%3A0xdade3eba4b404dad!2sUFI%204!5e0!3m2!1ses-419!2sar!4v1701377211373!5m2!1ses-419!2sar"
      },
      {
      _id: 7,
-     "image":"https://scontent-eze1-1.xx.fbcdn.net/v/t1.6https://scontent.feze11-1.fna.fbcdn.net/v/t39.30808-6/240101181_4751473228199159_6430324852018406975_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeGLjic5zCIZaddLFAQMlWM5w5HjzFgcGXnDkePMWBwZeRX-v1bc6GjgmHueIazI0Ho&_nc_ohc=PPZAS0qHjkMAX9G0Hjw&_nc_ht=scontent.feze11-1.fna&oh=00_AfAmCbFGhvxzu6l9L6fu514s4ZXUau0su6OPkXZ_QEXsDw&oe=656E2AE7435-9/136671690_250472459843632_208571754196754108_n.jpg?_nc_cat=108&cb=99be929b-59f725be&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=yfufkBaCzpYAX-TqLcl&_nc_ht=scontent-eze1-1.xx&oh=00_AfB8vPOLMW_HcQ6l4ntp3wKhgVGPM831yOu91EJmLlgStw&oe=64CCE8C1",
+     "image":"https://scontent.feze11-1.fna.fbcdn.net/v/t39.30808-6/355882063_6751392204885264_3379161244642308892_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeEskUR8HC7NenqFqBlErS5ii2oFZcSlPsCLagVlxKU-wLRpfqQwGTlYkFm_uHkyCZc&_nc_ohc=EPRDsFqLuW4AX8cEhdN&_nc_ht=scontent.feze11-1.fna&oh=00_AfCn9KDNJb9vQVCIG_f7h8VaxDcGqVnNMu1TYh-frDXzwA&oe=656E4EA3",
      "name":"UNIDAD FUNCIONAL DE INSTRUCCIÓN Y JUICIO DESCENTRALIZADA 2 EZEIZA (UFIJ N°4)",
      "direccion":"Chenaut  130, Ezeiza",
      "telefono":"📞4389-2132/33/34/35/36 ",
      "horario":"----",
-     "mail":"ufij.lz.ez@mpba.gov.ar"
+     "mail":"ufij.lz.ez@mpba.gov.ar",
+     "ubicacion":"📍",
+     "frame":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d204.64298304509464!2d-58.51391647237685!3d-34.84899694381519!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcd0d6afb88e8b%3A0xdade3eba4b404dad!2sUFI%204!5e0!3m2!1ses-419!2sar!4v1701377211373!5m2!1ses-419!2sar"
       },
       {
         _id: 8,
-        "image":"https://scontent-eze1-1.xx.fbcdn.net/v/t31.18172-8/277658_204483009601567_1317393_o.jpg?_nc_cat=107&cb=99be929b-59f725be&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=Hho7YQ9LtksAX_wKU_R&_nc_ht=scontent-eze1-1.xx&oh=00_AfD1PT_b38Z8_eyCrS4EDozUZL6GSW74c8334Mw5O4PakQ&oe=64CCE713",
+        "image":"https://scontent.feze11-1.fna.fbcdn.net/v/t31.18172-8/277658_204483009601567_1317393_o.jpg?_nc_cat=107&ccb=1-7&_nc_sid=4dc865&_nc_eui2=AeEfHqG_4OJadkjbJJxTV60yETAUIXpblSURMBQheluVJS2C55Zxg5-yrHLm9gEtofI&_nc_ohc=69xalNlfI-sAX9qxvSA&_nc_ht=scontent.feze11-1.fna&oh=00_AfB7LoarkkcaIBBv0wKfdETBx0OnyKzhCrNBaCFUYyJV2A&oe=65907593",
         "name":"JUZGADO DE GARANTÍAS NRO. 7",
         "direccion":"Pte. Néstor Kirchner 359/365, Ezeiza",
         "telefono":"📞4295-0320/0329 ",
         "horario":"----",
-        "mail":"----"
+        "mail":"----",
+        "ubicacion":"📍",
+        "frame":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d204.6440863942916!2d-58.51374699275628!3d-34.84855328121293!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcd0d6b08f2e0d%3A0x57346c25c56c222d!2sLucio%20Salvadores%20365%2C%20Ezeiza%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1701378213231!5m2!1ses-419!2sar"
          },
         {
         _id: 9,
-        "image":"https://scontent-ehttps://scontent.feze11-1.fna.fbcdn.net/v/t39.30808-6/240101181_4751473228199159_6430324852018406975_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeGLjic5zCIZaddLFAQMlWM5w5HjzFgcGXnDkePMWBwZeRX-v1bc6GjgmHueIazI0Ho&_nc_ohc=PPZAS0qHjkMAX9G0Hjw&_nc_ht=scontent.feze11-1.fna&oh=00_AfAmCbFGhvxzu6l9L6fu514s4ZXUau0su6OPkXZ_QEXsDw&oe=656E2AE7ze1-1.xx.fbcdn.net/v/t1.https://scontent.feze11-1.fna.fbcdn.net/v/t39.30808-6/240101181_4751473228199159_6430324852018406975_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeGLjic5zCIZaddLFAQMlWM5w5HjzFgcGXnDkePMWBwZeRX-v1bc6GjgmHueIazI0Ho&_nc_ohc=PPZAS0qHjkMAX9G0Hjw&_nc_ht=scontent.feze11-1.fna&oh=00_AfAmCbFGhvxzu6l9L6fu514s4ZXUau0su6OPkXZ_QEXsDw&oe=656E2AE718169-9/16864432_10209038252217513_784232201602943105_n.jpg?_nc_cat=100&cb=99be929b-59f725be&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=vom6iQIdQaMAX9pv_fc&_nc_ht=scontent-eze1-1.xx&oh=00_AfCyfeA5pj1POkTmMqiaWfYxPE-4Hex8DQpCcb0IoDUINw&oe=64CCEB16",
-        "name":"SECRETARÍA DE VIOLENCIA ",
+        "image":"https://scontent.feze11-1.fna.fbcdn.net/v/t39.30808-6/355882063_6751392204885264_3379161244642308892_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeEskUR8HC7NenqFqBlErS5ii2oFZcSlPsCLagVlxKU-wLRpfqQwGTlYkFm_uHkyCZc&_nc_ohc=EPRDsFqLuW4AX8cEhdN&_nc_ht=scontent.feze11-1.fna&oh=00_AfCn9KDNJb9vQVCIG_f7h8VaxDcGqVnNMu1TYh-frDXzwA&oe=656E4EA3",
         "direccion":"Chenaut 130, Ezeiza  ",
         "telefono":"📞4295-0320/0329 ",
         "horario":"Lunes a Viernes de 8 a 14 hs.",
-        "mail":"----"
+        "mail":"----",
+        "ubicacion":"📍",
+        "frame":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d204.64298304509464!2d-58.51391647237685!3d-34.84899694381519!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcd0d6afb88e8b%3A0xdade3eba4b404dad!2sUFI%204!5e0!3m2!1ses-419!2sar!4v1701377211373!5m2!1ses-419!2sar"
         }
       
 ]
