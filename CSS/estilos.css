@@ -67,7 +67,6 @@ header h2 {
     box-shadow: -5px -5px 12px rgba(0,0,0, 0.5);
 }
 .cartas {
-    background-color: azure;
     display: flex;
     justify-content:space-between;
     gap: .5em;
