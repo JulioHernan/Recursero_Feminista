@@ -28,7 +28,7 @@ var swiper = new Swiper(".mySwiper", {
                 <iframe src="${dato.frame}" width="240px" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
         </div>`;
-    }
+    }''
 }
 
 function renderCards2(data, contenedor) {
