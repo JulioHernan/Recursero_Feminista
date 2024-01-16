@@ -78,7 +78,7 @@ let data = [
       },
       {
         _id: 8,
-        "image":"https://scontent.feze11-1.fna.fbcdn.net/v/t31.18172-8/277658_204483009601567_1317393_o.jpg?_nc_cat=107&ccb=1-7&_nc_sid=4dc865&_nc_eui2=AeEfHqG_4OJadkjbJJxTV60yETAUIXpblSURMBQheluVJS2C55Zxg5-yrHLm9gEtofI&_nc_ohc=69xalNlfI-sAX9qxvSA&_nc_ht=scontent.feze11-1.fna&oh=00_AfB7LoarkkcaIBBv0wKfdETBx0OnyKzhCrNBaCFUYyJV2A&oe=65907593",
+        "image":"https://scontent.feze11-1.fna.fbcdn.net/v/t1.6435-9/138497201_248660106771842_4440913772159849147_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=KUl1GASYrREAX_JVN_u&_nc_ht=scontent.feze11-1.fna&oh=00_AfDN6sfd5jqgDDJXuCPKL9XvPuwVTK8Tr-hxE04YI190lg&oe=65CE7335",
         "name":"JUZGADO DE GARANTÍAS NRO. 7",
         "direccion":"Pte. Néstor Kirchner 359/365, Ezeiza",
         "telefono":"📞4295-0320/0329 ",
